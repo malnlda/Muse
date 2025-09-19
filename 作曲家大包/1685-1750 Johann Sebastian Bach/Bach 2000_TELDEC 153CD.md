@@ -1,8 +1,8 @@
 # Bach 2000: The Complete Bach Edition
 
-[Discog](https://www.discogs.com/release/23209139-Bach-Bach-2000-The-Complete-Bach-Edition)
+[Discogs](https://www.discogs.com/release/23209139-Bach-Bach-2000-The-Complete-Bach-Edition)
 
-QQ音乐：无原版，有替代资源。
+QQ音乐无原版，使用替代资源。
 
 ## Volume 1: Sacred Cantatas: BWV 1-14, 16-47 (15 CDs)
 
