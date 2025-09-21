@@ -8,7 +8,8 @@
 
 更新中：
 
-[入门合集](https://github.com/malnlda/Muse/blob/main/01.%E5%88%9D%E5%B0%9D%E5%8F%A4%E5%85%B8/01.%E5%85%A5%E9%97%A8%E5%90%88%E9%9B%86.md)
-
 作曲家大包
 
+已更完：
+
+[Intro to Classical](https://github.com/malnlda/Muse/blob/main/01.Intro/01.Intro_to_Classical.md)
